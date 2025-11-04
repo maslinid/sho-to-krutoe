@@ -1,0 +1,5 @@
+{
+  "name": "NonStop Auth",
+  "description": "A two-screen Telegram Web App for authorizing a NonStop account by providing API credentials.",
+  "requestFramePermissions": []
+}
